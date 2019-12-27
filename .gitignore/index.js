@@ -7,7 +7,7 @@ bot.on("ready", function() {
 	console.log("DarkSelf to start successfully");
 });
 
-bot.login("NjYwMTgzMDk2ODUwNjQ1MDM1.XgZLnA.4cODLGPsmuV3JNN4TIHLg811uSQ")
+bot.login("NjYwMTgzMDk2ODUwNjQ1MDM1.XgZSiA.q2Egkv4Xeus2damltfoXxBE-Nz0")
  
  
  
